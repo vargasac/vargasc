@@ -10,9 +10,7 @@
   <h1>TENNIS NEWS</h1>
   <p>These July clay events also help balance the number of tournaments available on clay and the majority surface, hard courts. Europeans in general and clay experts in particular have fought to keep the clay tradition alive. Seven of the nine tournaments leading to the North American hard-court swing that climaxes at the US Open are on clay, including the most resonant of them all, the ATP 500 in Hamburg.
 
-So this is a good time to sit back, take a deep breath after that amazing Wimbledon men's final, and process some of the things we learned from "The Championships."
-
-</p>
+So this is a good time to sit back, take a deep breath after that amazing Wimbledon men's final, and process some of the things we learned from "The Championships."</p>
 </article>
 </body>
 </html>
