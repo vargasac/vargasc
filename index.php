@@ -1,16 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>indexfile</html>
+<title>IPHONE</title>
 </head>
 <body>
-<h1>Djokovic rules, Serena falls short: What we learned at Wimbledon</h2>
-<p>LONDON -- Welcome to the secret season, the post-Wimbledon return to the clay courts -- a segment embraced some years ago by both tours partly to protect the health of the players. The prospect of moving from cushiony grass to punishing hard courts immediately after Wimbledon and staying on them through the US Open and beyond did not appeal to anyone.</p>
-<article>
-  <h1>TENNIS NEWS</h1>
-  <p>These July clay events also help balance the number of tournaments available on clay and the majority surface, hard courts. Europeans in general and clay experts in particular have fought to keep the clay tradition alive. Seven of the nine tournaments leading to the North American hard-court swing that climaxes at the US Open are on clay, including the most resonant of them all, the ATP 500 in Hamburg.
+<center><h1>IPHONEX</h1>
+<img src="https://ss7.vzw.com/is/image/VerizonWireless/iPhoneX-Svr?$device-lg$" align='left'>
+<h2>PRICE</h2>
+<h3>P80,000</h3>
+<hr>
+<h5>Installment</h5> 
+<h5> up to 40 months as low as P501.50 per months</h5>
+<hr>
+<p>All-new glass design, water and dust resistant, wireless charging capabilities, 5.8-inch Super Retina screen, A11 Bionic chip, dual 12MP main, 7MP front-facing camera, face ID recognition, iOS 11, better battery life with fast charge.</p>
+<hr>
+<h4>Storage: 64GB</h4>
+<center><h4>Capacity: 128GB</h4>
+<hr>
+<h2> More Specs</h2>
+<h4>TYPES</h4>
+<p>Smartphone , Phablet , Notch Phone , Gaming Phone , Camera Phone , Selfie Phone , Waterproof Phone.</p>
+<h4>SHAPE</h4>
+<p>Bar</p>
+<h4>BASIC</h4>
+<p>OS: ios</p>
+<p>SIM: nano sim</p>
+<p>RAM: 3GB</p>
+<p>BATERRY:</p>
+<p>2,716mAh
+Built-in rechargeable lithium-ion battery
+Talk time (wireless):Up to 21 hours
+Internet use:Up to 12 hours
+Video playback (wireless):Up to 13 hours
+Audio playback (wireless):Up to 60 hours</p>
+<h4>SCREEN</h4>
+<p>DISPALY SIZE: 5.80 inches</p>
+<p>RESOLUTION: 2436 x 1125 (Super Retina HD)</p>
+<h4>CAMERA</h4>
+<p>MAIN CAMERA:</p>
+<p>12MP wide-angle and telephoto cameras Wide-angle: ƒ/1.8 aperture Telephoto: ƒ/2.4 aperture Optical zoom; digital zoom up to 10x</p>
+<p>FRONT CAMERA: 7 MP</p>
+<h4>SIZE</h4>
+<p>DIMENSIONS: 143.6 mm x 70.9 mm x 7.7 mm</p>
+<p>WEIGHT: 	174 g</p>
+<h4>OTHER FEATURES</h4>
+<p>Wi-Fi , Hotspot/Tethering , GPS , Bluetooth , OIS , Flash , Waterproof</p>
 
-So this is a good time to sit back, take a deep breath after that amazing Wimbledon men's final, and process some of the things we learned from "The Championships."</p>
-</article>
-</body>
-</html>
+
